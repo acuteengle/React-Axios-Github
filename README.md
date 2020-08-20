@@ -1,15 +1,1 @@
-This project makes a get request to the Github API to pull the commits for a specific repo for a specific owner. It them counts up how many commits each commiter has made and makes a bar graph in D3 to show the results.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+This project makes a get request to the Github API to pull the commits for a specific repo for a specific owner. It them counts up how many commits each commiter has made and makes a bar graph in D3 and some tables to show the results.
