@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactAxiosGithub/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ReactAxiosGithub/static/js/main.9e027f85.chunk.js",
+    "main.js.map": "/ReactAxiosGithub/static/js/main.9e027f85.chunk.js.map",
+    "runtime-main.js": "/ReactAxiosGithub/static/js/runtime-main.b738c152.js",
+    "runtime-main.js.map": "/ReactAxiosGithub/static/js/runtime-main.b738c152.js.map",
+    "static/css/2.11829350.chunk.css": "/ReactAxiosGithub/static/css/2.11829350.chunk.css",
+    "static/js/2.16f3bd44.chunk.js": "/ReactAxiosGithub/static/js/2.16f3bd44.chunk.js",
+    "static/js/2.16f3bd44.chunk.js.map": "/ReactAxiosGithub/static/js/2.16f3bd44.chunk.js.map",
+    "index.html": "/ReactAxiosGithub/index.html",
+    "precache-manifest.da90a22de2b00e8573cb5fa882980291.js": "/ReactAxiosGithub/precache-manifest.da90a22de2b00e8573cb5fa882980291.js",
+    "service-worker.js": "/ReactAxiosGithub/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/ReactAxiosGithub/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ReactAxiosGithub/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.16f3bd44.chunk.js.LICENSE.txt": "/ReactAxiosGithub/static/js/2.16f3bd44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b738c152.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.16f3bd44.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9e027f85.chunk.js"
+  ]
+}
