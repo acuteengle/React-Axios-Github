@@ -66,6 +66,7 @@ const GithubAxios = () => {
       <h2 style={{ textAlign: "center" }}>Owner: {owner}</h2>
       <h2 style={{ textAlign: "center" }}>Repository: {repo}</h2>
       <table className="table table-dark">
+        <caption>Last 30 commits</caption>
         <thead>
           <tr>
             <th scope="col">Developer</th>
@@ -97,6 +98,7 @@ const GithubAxios = () => {
         className="table table-dark"
         style={{ tableLayout: "fixed", width: "100%" }}
       >
+        <caption>Last 30 commits</caption>
         <thead>
           <tr>
             <th scope="col">Developer</th>
